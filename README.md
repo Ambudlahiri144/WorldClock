@@ -1,16 +1,6 @@
 # worldtime
 
-A new Flutter project.
+This is the app through which you can see the time of any city in the world. Just choose the city from the "Edit Location" button then you will be able to see the places's time,
+This application uses flutter and dart commands.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
